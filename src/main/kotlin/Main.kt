@@ -15,4 +15,10 @@ val rate= arrayOf("144","112","143","120","210")
     for(element in rate){println(element+"")}
 
 
+
+
+    val animals= arrayOf("6goats","10sheeps","40pigs","34cows","50chickens")
+    for(element in animals){println(element+"")}
+
+
 }
